@@ -1,2 +1,2 @@
-# innovea_hub
-# innovea
+# innoveahub-api
+# innoveahub-app
